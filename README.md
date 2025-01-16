@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 👋 ¡Hola! Soy un desarrollador apasionado por la tecnología y el aprendizaje constante.<br><br>🎓 A mis 23 años, me gradué como programador en la Universidad Tecnológica de Tucumán, donde adquirí una sólida base en desarrollo y bases de datos.<br><br>💻 Actualmente, mi enfoque está en el desarrollo frontend, trabajando con tecnologías como HTML, CSS, JavaScript, React y React Native. Además, tengo experiencia en bases de datos como PostgreSQL, MySQL y MongoDB, lo que me permite abordar proyectos de manera integral.<br><br>🚀 Me considero una persona proactiva, siempre buscando nuevas oportunidades para aprender, crecer y contribuir al mundo de la programación. Mi objetivo es desarrollar soluciones innovadoras y eficientes mientras sigo perfeccionando mis habilidades día a día.<br><br>✨ ¡Explora mis repositorios para ver en qué estoy trabajando y no dudes en contactarme para colaborar!
 
 
